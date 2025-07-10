@@ -43,15 +43,15 @@ This project applies supervised machine learning models to predict hourly rental
 ---
 
 ## 🖼️ Sample Prediction Output
-
+You can compare the highlighted data and see that the values are very close
 <p align="center">
-  <img src="data.png" width="350"/>
+  <img src="data.jpeg" width="350"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="predictions.png" width="350"/>
+  <img src="predictions.jpeg" width="350"/>
 </p>
 
 ---
