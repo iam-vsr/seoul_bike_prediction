@@ -6,7 +6,7 @@ Forecast hourly bike rental demand in Seoul based on weather, time, and calendar
 
 Just click the badge below to open the notebook in Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/seoul_bike_demand_forecasting.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iam-vsr/seoul_bike_prediction/blob/main/seoul_bike_demand_prediction.ipynb)
 
 #### 🔽 Step-by-Step Instructions:
 
@@ -45,7 +45,7 @@ This project applies supervised machine learning models to predict hourly rental
 ## 🖼️ Sample Prediction Output
 
 <p align="center">
-  <img src="gradio_sample_output.png" width="350"/>
+  <img src="prediction.png" width="350"/>
 </p>
 
 ---
@@ -62,7 +62,7 @@ SeoulBikeForecasting/
 │   ├── gradio_sample_output.png  
 |   ├── xgboost_tuned_residuals.png
 │   └── xgboost_tuned_lineplot.png   
-├── seoul_bike_demand.ipynb  # Full notebook
-├── seoul_bike_demand.py     # Clean Python script version
+├── seoul_bike_demand_prediction.ipynb  # Full notebook
+├── seoul_bike_sharing_demand_prediction.py     # Clean Python script version
 ├── prediction.png         # Screenshot of sample prediction
 ├── README.md
