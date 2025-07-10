@@ -11,7 +11,7 @@ Just click the badge below to open the notebook in Colab:
 #### 🔽 Step-by-Step Instructions:
 
 1. **Download the dataset**  
-   → [Seoul Bike Sharing Demand](https://archive.ics.uci.edu/static/public/579/seoul+bike+sharing+demand.zip)
+   → [Seoul Bike Sharing Demand](https://github.com/iam-vsr/seoul_bike_prediction/blob/main/SeoulBikeData.csv)
 
 2.  **Run all cells in the notebook**  
    - Everything from data preprocessing, visualization, model training, and prediction is included.
@@ -59,9 +59,10 @@ SeoulBikeForecasting/
 │   └── feature_order.pkl
 ├── plots/                              # Visualizations
 │   ├── xgboost_tuned_pred_vs_actual.png
-│   ├── xgboost_tuned_residuals.png
-│   └── xgboost_tuned_lineplot.png
+│   ├── gradio_sample_output.png  
+|   ├── xgboost_tuned_residuals.png
+│   └── xgboost_tuned_lineplot.png   
 ├── seoul_bike_demand.ipynb  # Full notebook
 ├── seoul_bike_demand.py     # Clean Python script version
-├── gradio_sample_output.png             # Screenshot of sample prediction
+├── prediction.png         # Screenshot of sample prediction
 ├── README.md
